@@ -239,93 +239,93 @@ Skin: https://mega.nz/#F!ZTQz0QbB!een48fhB_Y-HDRoCf4Ve6Q!cegFiIQS (azerite skin 
 Map:https://osu.ppy.sh/s/623924
 ▔▔▔▔▔▔▔▔▔▔▔▔
 Mathi	        High Free Spirits -TV.Ver- [StarR's Extra] 2017-12-29 6:45
-Skin: 
+Skin: https://puu.sh/wvSc8.osk
 Map:https://osu.ppy.sh/s/440706
 ▔▔▔▔▔▔▔▔▔▔▔▔
 Mathi	        SANTA SAN [Gift] 2017-12-29 8:18
-Skin:
-Map:
+Skin:https://puu.sh/wvSc8.osk
+Map:https://osu.ppy.sh/s/695316
 ▔▔▔▔▔▔▔▔▔▔▔▔
 totoki	        SANTA SAN [Gift] 2017-12-30 14:23
-Skin:
-Map:
+Skin:https://puu.sh/xlnnJ/dffeaefcff.zip
+Map:https://osu.ppy.sh/s/695316
 ▔▔▔▔▔▔▔▔▔▔▔▔
 FlyingTuna	Kira Kira Days [Shiawase!!] 2017-12-30 16:42
-Skin:
-Map:
+Skin:https://www.dropbox.com/s/ms8vuz75n6eardz/-%20Selyu%20v2.2.osk?dl=0
+Map:https://osu.ppy.sh/s/444335
 ▔▔▔▔▔▔▔▔▔▔▔▔
 totoki	        Necro Fantasia [Lasse's Lunatic] 2018-01-07 00:00:03 (wtf)
 Skin:https://puu.sh/xlnnJ/dffeaefcff.zip
-Map:
+Map:https://osu.ppy.sh/b/1097543
 ▔▔▔▔▔▔▔▔▔▔▔▔
 totoki	        Blade Dance [Kneesocks] 2018-01-07 14:47
-Skin:
-Map:
+Skin:https://puu.sh/xlnnJ/dffeaefcff.zip
+Map:https://osu.ppy.sh/b/816600?m=0
 ▔▔▔▔▔▔▔▔▔▔▔▔
 Mathi           Koi no Hime Hime Pettanko [Sweet Sweet Angel] 2018-01-10 7:59
-Skin:
-Map:
+Skin:https://puu.sh/wvSc8.osk
+Map:https://osu.ppy.sh/b/1443674?m=0
 ▔▔▔▔▔▔▔▔▔▔▔▔
 Mathi	        Remote Control [Take Control!] 2018-01-10 9:22
-Skin:
-Map:
+Skin:https://puu.sh/wvSc8.osk
+Map:https://osu.ppy.sh/s/530445
 ▔▔▔▔▔▔▔▔▔▔▔▔
 cookiezi	Hades: The rise [Hardest] 2018-01-11 10:24
-Skin:
-Map:
+Skin:https://www.dropbox.com/s/k4j954txuelnzyz/thatgutcoookieziskin.osk?dl=0
+Map:https://osu.ppy.sh/b/1402392
 ▔▔▔▔▔▔▔▔▔▔▔▔
 ThePooN	        Road of Resistance [Crimson Rebellion] 2018-01-11 11:35
-Skin:
-Map:
+Skin:https://imgcc.xyz/u8Po/b3cb71
+Map:https://osu.ppy.sh/s/567324
 ▔▔▔▔▔▔▔▔▔▔▔▔
 rafis	        Necro Fantasia [Lasse's Lunatic] 2018-01-22 
-Skin:
-Map:
+Skin:https://www.dropbox.com/s/zibdc2btmpp43en/Prawilosc%20v.997.osk?dl=0
+Map:https://osu.ppy.sh/b/1097543
 ▔▔▔▔▔▔▔▔▔▔▔▔
 fieryrage	SHIORI -TV size mix- [Apex] 2018-01-24
-Skin:
+Skin:http://puu.sh/y0KM8/5083415b10.osk
 Map:https://osu.ppy.sh/s/661919
 ▔▔▔▔▔▔▔▔▔▔▔▔
 Abyssal         BABYMETAL - Road of Resistance [Crimson Rebellion] 2018-02-09
-Skin:
-Map:
+Skin: https://puu.sh/ydIgE/4d1d75821d.osk
+Map:https://osu.ppy.sh/s/567324
 ▔▔▔▔▔▔▔▔▔▔▔▔
 _RyuK	        Remote Control [Max Control!] 2018-02-12
-Skin:
-Map:
+Skin:https://mega.nz/#F!ZTQz0QbB!een48fhB_Y-HDRoCf4Ve6Q!cegFiIQS (azerite skin modif)
+Map:https://osu.ppy.sh/s/351630
 ▔▔▔▔▔▔▔▔▔▔▔▔
 Dustice         kradness&Reol - Remote Control [Max Control!] 2018-02-15 11:37
-Skin:
-Map:
+Skin:http://circle-people.com/wp-content/Skins/Dustice/Dustice-2017-11-22.osk
+Map:https://osu.ppy.sh/s/351630
 ▔▔▔▔▔▔▔▔▔▔▔▔
 FGSky           ClariS - SHIORI TV size [Apex] 2018-02-15 21:15
-Skin:
+Skin:https://circle-people.com/wp-content/Skins/FGSky/FGSky%202018-02-15%20DT.osk
 Map:https://osu.ppy.sh/s/661919
 ▔▔▔▔▔▔▔▔▔▔▔▔
 osu player84    LiSA - Datte Atashi no Hero. -TV ver.-
-Skin:
-Map:
+Skin:https://circle-people.com/wp-content/Skins/Azerite%20(osu%20player84)/Azerite%20(osu%20player84)%202017-09-29.osk
+Map:https://osu.ppy.sh/s/637445
 ▔▔▔▔▔▔▔▔▔▔▔▔
 a_blue          SHIORI -TV size mix- [Apex] 2018-02-21
-Skin:
+Skin:https://ndb.moe/s4j (not his real skin)
 Map:https://osu.ppy.sh/s/661919
 ▔▔▔▔▔▔▔▔▔▔▔▔
 Mathi           Yamajet feat. Hiura Masako - Sunglow [Melody] 2018-02-23 3:24
-Skin:
-Map:
+Skin:https://puu.sh/wvSc8.osk
+Map:https://osu.ppy.sh/s/595163
 ▔▔▔▔▔▔▔▔▔▔▔▔
 Mathi           ClariS - SHIORI -TV size mix- [Apex] 2018-02-23 20:58
-Skin:
+Skin:https://puu.sh/wvSc8.osk
 Map:https://osu.ppy.sh/s/661919
 ▔▔▔▔▔▔▔▔▔▔▔▔
 Mathi           ClariS - Kimi no shiranai monogatari [Serenity] 2018-02-23 22:08
-Skin:
-Map:
+Skin:https://puu.sh/wvSc8.osk
+Map:https://osu.ppy.sh/s/728405
 ▔▔▔▔▔▔▔▔▔▔▔▔
 idke            xi - Halcyon -Long Version 2018-02-24
-Skin:
-Map:
+Skin:http://puu.sh/tlAEA/537aa94700.osk
+Map:https://osu.ppy.sh/s/448919
 ▔▔▔▔▔▔▔▔▔▔▔▔
- 
+ Subscribe ;)
 
 
