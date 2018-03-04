@@ -104,20 +104,50 @@ Map: https://osu.ppy.sh/s/490956
 ▔▔▔▔▔▔▔▔▔▔▔▔
 filsdelama	Hitorigoto -TV MIX- [Soliloquy] 2017-05-03
 Skin: http://puu.sh/tLGhv/3bef81fdb7.osk
-Map:
+Map: https://osu.ppy.sh/s/596704
 ▔▔▔▔▔▔▔▔▔▔▔▔
 firebat92	Hitorigoto -TV MIX- [Soliloquy] 2017-06-05
-Skin: 
-Map:
+Skin: https://www.dropbox.com/s/sknefxy0us9a0nq/JDDDDDDDDDDD.osk?dl=0
+Map: https://osu.ppy.sh/s/596704
 ▔▔▔▔▔▔▔▔▔▔▔▔
 filsdelama	Harebare Fanfare [Bright & Cheerful] 2017-06-10
+Skin: http://puu.sh/tLGhv/3bef81fdb7.osk
+Map: https://osu.ppy.sh/b/1059894
+▔▔▔▔▔▔▔▔▔▔▔▔
 osu player84	Merry Merry Go Round [Extra] 2017-06-20
+Skin: https://www.dropbox.com/s/o9u38grcwhvibmy/azer8trail.osk?dl=0
+Map: https://osu.ppy.sh/s/469475
+▔▔▔▔▔▔▔▔▔▔▔▔
 filsdelama	Yume Tourou [Extra: Taki] 2017-06-24
+Skin: http://puu.sh/tLGhv/3bef81fdb7.osk
+Map: https://osu.ppy.sh/s/597111
+▔▔▔▔▔▔▔▔▔▔▔▔
 rafis	        Yume Tourou [Extra: Taki] 2017-06-26 3:45
+Skin: 
+Map: 
+▔▔▔▔▔▔▔▔▔▔▔▔
 firebat92	Yume Tourou [Extra: Taki] 2017-06-26 8:52
+Skin: 
+Map: 
+▔▔▔▔▔▔▔▔▔▔▔▔
 rafis	        Shinsaku no Shiawase wa Kochira! [Happy~!] 2017-06-27
+Skin: 
+Map: 
+▔▔▔▔▔▔▔▔▔▔▔▔
 Yaong	        Blue Zenith [FOUR DIMENSIONS] 23:25
+Skin: 
+Map: 
+▔▔▔▔▔▔▔▔▔▔▔▔
 emilia_	        Kira Kira Days [Shiawase!!] 2017-06-29 23:39
+Skin: 
+Map: 
+▔▔▔▔▔▔▔▔▔▔▔▔
 emilia_	        Blade Dance [Kneesocks] 2017-06-30
+Skin: 
+Map: 
+▔▔▔▔▔▔▔▔▔▔▔▔
 Kablaze	        quaver [Crescendo] 2017-08-24
+Skin: 
+Map: 
+▔▔▔▔▔▔▔▔▔▔▔▔
 
