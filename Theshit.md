@@ -187,85 +187,145 @@ Skin: https://www.dropbox.com/s/zibdc2btmpp43en/Prawilosc%20v.997.osk?dl=0
 Map: https://osu.ppy.sh/b/827488?m=0
 ▔▔▔▔▔▔▔▔▔▔▔▔
 cookiezi	Guilty All The Same (feat. Rakim) [shame] 2017-10-14 5:45
-Skin: 
+Skin: https://www.dropbox.com/s/k4j954txuelnzyz/thatgutcoookieziskin.osk?dl=0
 Map: https://osu.ppy.sh/s/518596
 ▔▔▔▔▔▔▔▔▔▔▔▔
 osu_player84	Koi no Hime Hime Pettanko [Taeyang's Ultra Princess] 2017-10-14 11:03
-Skin: https://www.dropbox.com/s/o9u38grcwhvibmy/azer8trail.osk?dl=0
-Map:
+Skin: https://circle-people.com/wp-content/Skins/Azerite%20(osu%20player84)/Azerite%20(osu%20player84)%202017-09-29.osk
+Map: https://osu.ppy.sh/s/485056
 ▔▔▔▔▔▔▔▔▔▔▔▔
 osu_player84	Shinsaku no Shiawase wa Kochira! [Happy~!] 2017-10-20
-Skin:
-Map:
+Skin: https://circle-people.com/wp-content/Skins/Azerite%20(osu%20player84)/Azerite%20(osu%20player84)%202017-09-29.osk
+Map: https://osu.ppy.sh/b/953586
 ▔▔▔▔▔▔▔▔▔▔▔▔
 osu player84	High Free Spirits -TV.Ver- [Skystar's Extra]
-Skin:
-Map:
+Skin: https://circle-people.com/wp-content/Skins/Azerite%20(osu%20player84)/Azerite%20(osu%20player84)%202017-09-29.osk
+Map: https://osu.ppy.sh/s/440706
 ▔▔▔▔▔▔▔▔▔▔▔▔
 rafis	        yuima-ru*world [Extra] 2017-10-29
-Skin:
-Map:
+Skin: https://www.dropbox.com/s/ctfhgqs0bhitsyx/Prawilosc%20vJP%20without%20followpoints.osk?dl=0
+Map:https://osu.ppy.sh/s/459149
 ▔▔▔▔▔▔▔▔▔▔▔▔
 osu player84	High Free Spirits -TV.Ver- [StarR's Extra]  2017-11-04    
-Skin:
-Map:
+Skin: https://circle-people.com/wp-content/Skins/Azerite%20(osu%20player84)/Azerite%20(osu%20player84)%202017-09-29.osk
+Map: https://osu.ppy.sh/s/440706
 ▔▔▔▔▔▔▔▔▔▔▔▔
 filsdelama	SHIORI -TV size mix- [Apex] 2017-11-16 2:33 
-Skin:
-Map:
+Skin: http://puu.sh/tLGhv/3bef81fdb7.osk
+Map: https://osu.ppy.sh/s/661919
 ▔▔▔▔▔▔▔▔▔▔▔▔
 filsdelama	Hakkensha wa Watashi (Anime Size) [Kencho's Grimoire] 2017-11-16 4:39
-Skin:
-Map:
+Skin:http://puu.sh/tLGhv/3bef81fdb7.osk
+Map:https://osu.ppy.sh/b/1313431?m=0
 ▔▔▔▔▔▔▔▔▔▔▔▔
 rafis	        SHIORI -TV size mix- [Apex] 2017-11-19
-Skin:
-Map:
+Skin: https://www.dropbox.com/s/ctfhgqs0bhitsyx/Prawilosc%20vJP%20without%20followpoints.osk?dl=0
+Map:https://osu.ppy.sh/s/661919
 ▔▔▔▔▔▔▔▔▔▔▔▔
 totoki	        SHIORI -TV size mix- [Apex] 2017-11-27
-Skin:
-Map:
+Skin: https://puu.sh/xlnnJ/dffeaefcff.zip
+Map:https://osu.ppy.sh/s/661919
 ▔▔▔▔▔▔▔▔▔▔▔▔
-totoki          [Max Control!] 2017-12-06
-Skin:
-Map:
+totoki      Remote Control [Max Control!] 2017-12-06
+Skin:https://puu.sh/xlnnJ/dffeaefcff.zip
+Map: https://osu.ppy.sh/s/351630
 ▔▔▔▔▔▔▔▔▔▔▔▔
 Karthy	        Yubi Bouenkyou ~Anime-ban~ [~A r M i N's Adventure~] 2017-12-20
-Skin:
-Map:
+Skin: https://www.dropbox.com/s/4bxlbkpz0vlfy35/Karthy%20DT.osk?dl=0
+Map:https://osu.ppy.sh/s/623924
 ▔▔▔▔▔▔▔▔▔▔▔▔
 _Ryuk           Yubi Bouenkyou ~Anime-ban~ [~A r M i N's Adventure~] 2017-12-21
-Skin:
-Map:
+Skin: https://mega.nz/#F!ZTQz0QbB!een48fhB_Y-HDRoCf4Ve6Q!cegFiIQS (azerite skin modif)
+Map:https://osu.ppy.sh/s/623924
 ▔▔▔▔▔▔▔▔▔▔▔▔
 Mathi	        High Free Spirits -TV.Ver- [StarR's Extra] 2017-12-29 6:45
-Skin:
-Map:
+Skin: 
+Map:https://osu.ppy.sh/s/440706
 ▔▔▔▔▔▔▔▔▔▔▔▔
 Mathi	        SANTA SAN [Gift] 2017-12-29 8:18
 Skin:
 Map:
 ▔▔▔▔▔▔▔▔▔▔▔▔
 totoki	        SANTA SAN [Gift] 2017-12-30 14:23
+Skin:
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 FlyingTuna	Kira Kira Days [Shiawase!!] 2017-12-30 16:42
+Skin:
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 totoki	        Necro Fantasia [Lasse's Lunatic] 2018-01-07 00:00:03 (wtf)
+Skin:https://puu.sh/xlnnJ/dffeaefcff.zip
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 totoki	        Blade Dance [Kneesocks] 2018-01-07 14:47
+Skin:
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 Mathi           Koi no Hime Hime Pettanko [Sweet Sweet Angel] 2018-01-10 7:59
+Skin:
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 Mathi	        Remote Control [Take Control!] 2018-01-10 9:22
+Skin:
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 cookiezi	Hades: The rise [Hardest] 2018-01-11 10:24
+Skin:
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 ThePooN	        Road of Resistance [Crimson Rebellion] 2018-01-11 11:35
+Skin:
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 rafis	        Necro Fantasia [Lasse's Lunatic] 2018-01-22 
+Skin:
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 fieryrage	SHIORI -TV size mix- [Apex] 2018-01-24
+Skin:
+Map:https://osu.ppy.sh/s/661919
+▔▔▔▔▔▔▔▔▔▔▔▔
 Abyssal         BABYMETAL - Road of Resistance [Crimson Rebellion] 2018-02-09
+Skin:
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 _RyuK	        Remote Control [Max Control!] 2018-02-12
+Skin:
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 Dustice         kradness&Reol - Remote Control [Max Control!] 2018-02-15 11:37
+Skin:
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 FGSky           ClariS - SHIORI TV size [Apex] 2018-02-15 21:15
+Skin:
+Map:https://osu.ppy.sh/s/661919
+▔▔▔▔▔▔▔▔▔▔▔▔
 osu player84    LiSA - Datte Atashi no Hero. -TV ver.-
+Skin:
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 a_blue          SHIORI -TV size mix- [Apex] 2018-02-21
+Skin:
+Map:https://osu.ppy.sh/s/661919
+▔▔▔▔▔▔▔▔▔▔▔▔
 Mathi           Yamajet feat. Hiura Masako - Sunglow [Melody] 2018-02-23 3:24
+Skin:
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 Mathi           ClariS - SHIORI -TV size mix- [Apex] 2018-02-23 20:58
+Skin:
+Map:https://osu.ppy.sh/s/661919
+▔▔▔▔▔▔▔▔▔▔▔▔
 Mathi           ClariS - Kimi no shiranai monogatari [Serenity] 2018-02-23 22:08
+Skin:
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 idke            xi - Halcyon -Long Version 2018-02-24
+Skin:
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
  
 
 
