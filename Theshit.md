@@ -68,17 +68,48 @@ Map: https://osu.ppy.sh/s/444335
 ▔▔▔▔▔▔▔▔▔▔▔▔
 Cookiezi        Defenders [Legend] 2017-02-08
 Skin: https://ndb.moe/s4j
-Map: 
+Map: https://osu.ppy.sh/s/323059
+▔▔▔▔▔▔▔▔▔▔▔▔
 cookiezi	Remote Control [Max Control!] 2017-03-30 9:19
+Skin: https://ndb.moe/lgq (changed cursor)
+Map: https://osu.ppy.sh/s/351630
+▔▔▔▔▔▔▔▔▔▔▔▔
 Vaxei	        Remote Control [Max Control!] 2017-03-30 11:27
+Skin: http://hnng.moe/f/8Lj
+Map: https://osu.ppy.sh/s/351630
+▔▔▔▔▔▔▔▔▔▔▔▔
 cookiezi	Endless Starlight ~Inochi no Kirameki~ (OP ver.) [Challenger] 2017-04-22
+Skin: https://www.dropbox.com/s/ctfhgqs0bhitsyx/Prawilosc%20vJP%20without%20followpoints.osk?dl=0
+Map: https://osu.ppy.sh/s/518737
+▔▔▔▔▔▔▔▔▔▔▔▔
 cookiezi	Yume Chizu [Lost] 2017-04-24
+Skin: https://www.dropbox.com/s/ctfhgqs0bhitsyx/Prawilosc%20vJP%20without%20followpoints.osk?dl=0
+Map: https://osu.ppy.sh/s/467337
+▔▔▔▔▔▔▔▔▔▔▔▔
 cookiezi	Akatsuki Zukuyo [Taeyang's Extra] 2017-04-25
+Skin: https://www.dropbox.com/s/ctfhgqs0bhitsyx/Prawilosc%20vJP%20without%20followpoints.osk?dl=0
+Map: https://osu.ppy.sh/s/351280
+▔▔▔▔▔▔▔▔▔▔▔▔
 cookiezi	Merry Merry Go Round [Extra] 2017-04-29
+Skin: https://www.dropbox.com/s/ctfhgqs0bhitsyx/Prawilosc%20vJP%20without%20followpoints.osk?dl=0
+Map: https://osu.ppy.sh/s/469475
+▔▔▔▔▔▔▔▔▔▔▔▔
 Vaxei	        High Free Spirits -TV.Ver- [Skystar's Extra] 2017-05-02 6:03
+Skin: http://hnng.moe/f/8Lj
+Map: https://osu.ppy.sh/s/440706
+▔▔▔▔▔▔▔▔▔▔▔▔
 Vaxei	        Tsukinami [Fragile] 2017-05-02 6:32
+Skin: http://hnng.moe/f/8Lj
+Map: https://osu.ppy.sh/s/490956
+▔▔▔▔▔▔▔▔▔▔▔▔
 filsdelama	Hitorigoto -TV MIX- [Soliloquy] 2017-05-03
+Skin: http://puu.sh/tLGhv/3bef81fdb7.osk
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 firebat92	Hitorigoto -TV MIX- [Soliloquy] 2017-06-05
+Skin: 
+Map:
+▔▔▔▔▔▔▔▔▔▔▔▔
 filsdelama	Harebare Fanfare [Bright & Cheerful] 2017-06-10
 osu player84	Merry Merry Go Round [Extra] 2017-06-20
 filsdelama	Yume Tourou [Extra: Taki] 2017-06-24
