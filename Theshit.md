@@ -47,11 +47,28 @@ Skin: http://hnng.moe/f/8Lj
 Map: https://osu.ppy.sh/b/953586
 ▔▔▔▔▔▔▔▔▔▔▔▔
 rafis	        Yuima-ru*World TVver. [Extra] 2016-10-31 2:04
+Skin: http://puu.sh/pDnzg/2d2dacfc85.osk
+Map: https://osu.ppy.sh/s/459149
+▔▔▔▔▔▔▔▔▔▔▔▔
 Vaxei	        Aozora Jumping Heart [hvick225's Extra] 2016-10-31 4:06
+Skin: http://hnng.moe/f/8Lj
+Map: https://osu.ppy.sh/s/494768
+▔▔▔▔▔▔▔▔▔▔▔▔
 filsdelama	Best FriendS [Insane] 2016-11-06 3:53
+Skin:  http://cdn.shigetora.pw/o/vsjuqvc.osk 
+Map: https://osu.ppy.sh/b/574471?m=0
+▔▔▔▔▔▔▔▔▔▔▔▔
 rafis	        Best FriendS [Insane] 2016-11-06 5:11
+Skin: http://puu.sh/mkF9Z/048dd119d6.osk
+Map: https://osu.ppy.sh/b/574471?m=0
+▔▔▔▔▔▔▔▔▔▔▔▔
 Vaxei	        Kira Kira Days [Shiawase!!] 2017-01-08
+Skin: http://hnng.moe/f/8Lj
+Map: https://osu.ppy.sh/s/444335
+▔▔▔▔▔▔▔▔▔▔▔▔
 Cookiezi        Defenders [Legend] 2017-02-08
+Skin: https://ndb.moe/s4j
+Map: 
 cookiezi	Remote Control [Max Control!] 2017-03-30 9:19
 Vaxei	        Remote Control [Max Control!] 2017-03-30 11:27
 cookiezi	Endless Starlight ~Inochi no Kirameki~ (OP ver.) [Challenger] 2017-04-22
